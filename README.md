@@ -9,7 +9,8 @@ Os programas devem ser da área de TI, ex.:
 
 * linguagem de programação
 * banco de dados
-* editores de código, manuais
+* editores de código
+* manuais
 * etc..
 
 
@@ -79,7 +80,7 @@ E o arquivo seria assim:
 
 
 
-*DENTRO DO ARQUIVO DEVEMOS MENCIONAR A VERSÃO DA DISTRO*
+*DENTRO DO ARQUIVO DEVEMOS MENCIONAR A VERSÃO DA DISTRO*.
 
 Se preferir pode utilizar o [markdown](http://daringfireball.net/projects/markdown/syntax).
 
