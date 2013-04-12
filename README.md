@@ -39,10 +39,10 @@ Dentro de cada pasta de programa, haverá um arquivo para cada distro, ex:
 			debian.txt
 			
 
-Dentro de cada arquivo há dois tipos de informação: as linhas de comandos e os comentáiros.
+Dentro de cada arquivo há dois tipos de informação: as linhas de comandos e os comentários.
 
 A linha de comando será sempre precedida do sinal de sharp #.
-Os comentários serão textos simples e não devem possuir qualquer sinal,
+Os comentários serão textos simples e NÂO devem possuir qualquer sinal de comentários (docblock, //, #, etc..)
 
 Imagine como seria a instalação do aplicativo "x-debug" no Ubuntu 12.10.
 
@@ -55,29 +55,30 @@ A localização seria a seguinte:
 E o arquivo seria assim:
 		
 
-Dica: talves seja muito mais fácil instalar pelo Software-center, caso não consiga...
+	Dica: talves seja muito mais fácil instalar pelo Software-center, caso não consiga...
 
-No Ubuntu 12.10, instale os seguintes pacotes:
-# apt-get install php5-dev php-pear
+	No Ubuntu 12.10, instale os seguintes pacotes:
+	# apt-get install php5-dev php-pear
 
-Com o PECL (pear) pode-se instalar novos pacotes no estilo apt-get.
-Instale o x-debug
-# pecl install xdebug
+	Com o PECL (pear) pode-se instalar novos pacotes no estilo apt-get.
+	Instale o x-debug
+	# pecl install xdebug
 
-Agora é preciso atualizar o arquivo "php.ini" com a inclusão da extensão x-debug.
-Precisamos saber aonde está a extensão, execute:
-# find/ -name 'x-debug.sos'2> /dev/null
+	Agora é preciso atualizar o arquivo "php.ini" com a inclusão da extensão x-debug.
+	Precisamos saber aonde está a extensão, execute:
+	# find/ -name 'x-debug.sos'2> /dev/null
 
-O sistema lhe mostra o caminho, anote-o.
+	O sistema lhe mostra o caminho, anote-o.
 
-Abra o arquivo 'php.ini ( /etc/php5/apache2/php.ini ) e 
-no final do arquivo ou na seção de extensões, inclua a seguinte linha
-Zend_extension="/usr/lib/php5/caminho-anotado"
+	Abra o arquivo 'php.ini ( /etc/php5/apache2/php.ini ) e 
+	no final do arquivo ou na seção de extensões, inclua a seguinte linha
+	Zend_extension="/usr/lib/php5/caminho-anotado"
 
-reinicie o apache
-# /etc/init.d/apache2 restart
-
-
+	reinicie o apache
+	# /etc/init.d/apache2 restart
 
 
-	
+
+
+Se preferir pode utilizar o [markdown](http://daringfireball.net/projects/markdown/syntax).
+Os textos explicativos devem ser bem redigidos, simples e objetivos.
