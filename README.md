@@ -72,10 +72,10 @@ E o arquivo seria assim:
 	O sistema lhe mostra o caminho, anote-o.
 
 	Abra o arquivo 'php.ini ( /etc/php5/apache2/php.ini ) e 
-	no final do arquivo ou na seção de extensões, inclua a seguinte linha
+	no final do arquivo ou na seção de extensões, inclua a seguinte linha:
 	Zend_extension="/usr/lib/php5/caminho-anotado"
 
-	reinicie o apache
+	Reinicie o apache
 	# /etc/init.d/apache2 restart
 
 
