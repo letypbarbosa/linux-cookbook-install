@@ -1,4 +1,4 @@
-Receitas de instalações de programas no Linux (Família Debian e RedHat)
+Receitas de instalações de programas no Linux
 ===
 
 Sabe como instalar aquele programa em determinada distro?
@@ -79,6 +79,8 @@ E o arquivo seria assim:
 
 
 
+*DENTRO DO ARQUIVO DEVEMOS MENCIONAR A VERSÃO DA DISTRO*
 
 Se preferir pode utilizar o [markdown](http://daringfireball.net/projects/markdown/syntax).
+
 Os textos explicativos devem ser bem redigidos, simples e objetivos.
