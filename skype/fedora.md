@@ -1,6 +1,6 @@
 Fedora 18, skype 4.1.0.20
 
-Importar a chave GPGP
+Importe a chave GPGP
 
 	# su -c "gpg --keyserver pgp.mit.edu --recv-keys 0xD66B746E"
 
@@ -8,6 +8,7 @@ Importar a chave GPGP
 
 
 Inclua o repositório do skype
+
 Crie um arquivo chamado "skype.rep" e insire o conteúdo abaixo:
 
 	[skype]
@@ -23,14 +24,14 @@ Mova o arquivo para a pasta /etc/yum.repos.d/skype.repo, veja comando abaixo:
 	# mv skype.repo /etc/yum.repos.d/skype.repo
 
 
-Instalando o software
+Instale o software
 
 	# wget http://www.skype.com/go/getskype-linux-beta-fc10
 
 	# yum install libXScrnSaver.i?86 libX11.i?86 libXv.i?86 libv4l.i?86 alsa-plugins-pulseaudio.i?86 qt-x11.i?86;yum localinstall skype-*.rpm --nogpgcheck
  
 
-Adicionando um alias ao .bashrc
+Adicione um alias ao .bashrc
 
 	# alias skype='LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so /usr/bin/skype'
 
