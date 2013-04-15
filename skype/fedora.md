@@ -9,7 +9,7 @@ Importe a chave GPGP
 
 Inclua o repositório do skype
 
-Crie um arquivo chamado "skype.rep" e insire o conteúdo abaixo:
+Crie um arquivo chamado "skype.repo" e insire o conteúdo abaixo:
 
 	[skype]
 	name=Skype Repository
