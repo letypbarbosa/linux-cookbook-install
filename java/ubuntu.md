@@ -8,7 +8,7 @@ ou...
 
 1. Baixe o pacote: 
 
-	* http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
+* http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
 
 2. Dê permissão de execução:
 
@@ -19,7 +19,7 @@ ou...
 		# ./nome_do_arquivo
 
 4. Mover a pasta extraida para o local abaixo especificado.
-Obs: "java" é o nome da pasta que foi descompactada(pode haver variação)
+bs: "java" é o nome da pasta que foi descompactada(pode haver variação)
 
 		# mv java /usr/local
 
