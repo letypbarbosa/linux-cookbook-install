@@ -21,13 +21,13 @@ Ajustando o DocumentRoot no Ubuntu
 
 No Ubuntu eu já consigo trocar o local.
 
-Altere o arquivo "default" no segunite local:
+Altere o arquivo "default" no seguinte local:
 
 	# nano /etc/apache2/sites-available/default
 
-Eu utilzei o "nano" como editor de textos.
+Eu utilizei o "nano" como editor de textos.
 
-Procure entender o arquivo e altere o caminho para
+Procure entender o arquivo e altere o caminho para:
 
 	/home/usuario/NetBeansProjects
 
