@@ -8,7 +8,7 @@ ou...
 
 1. Baixe o pacote: 
 
-* http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
+	* http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
 
 2. Dê permissão de execução:
 
@@ -27,7 +27,7 @@ Obs: "java" é o nome da pasta que foi descompactada(pode haver variação)
 
 		# gedit .bashrc
 
-...adicionando no fim do arquivo:
+	...adicionando no fim do arquivo:
 
 		export PATH=${PATH}:/usr/local/nome_do_arquivo
 
