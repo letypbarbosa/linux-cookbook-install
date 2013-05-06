@@ -10,9 +10,9 @@ Considerando dois computadores na mesma rede interna (um servidor e um cliente).
 
 2. Crie um repositório qualquer:
 
-	# svnadmin create /local/dos/repositorios/projeto01
+		# svnadmin create /local/dos/repositorios/projeto01
 
-3. Dê permissão de escrita/execução:
+3. Dê permissão de escrita/	execução:
 
 	# chmod 777 -R /local/dos/repositorios/projeto01
 
