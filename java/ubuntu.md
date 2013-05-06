@@ -6,7 +6,7 @@ Via software-center é mais fácil, procure por  "openJavaX" (onde x é a versã
 ou...
 
 
-1. Baixe o pacote: * http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
+1. Baixe o pacote: http://www.oracle.com/technetwork/java/javase/dowloads/jdk-6u25-download-346242.html
 
 2. Dê permissão de execução:
 
