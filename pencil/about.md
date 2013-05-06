@@ -1,4 +1,4 @@
-DIA diagram Editor
+Pencil
 
-Software para criação de diagramas 
-principalemnte UML
+Software para criação de wireframes.
+
