@@ -1,4 +1,4 @@
-Tudo sobre fedora
+Referências sobre fedora
 -----------------
 
 http://fedora.wiki.br/wiki/FAQ_do_Fedora_10
