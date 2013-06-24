@@ -57,7 +57,7 @@ Adicionar impressora ?
 Para gerar cd com as atualizações
 ----------------------------------
 
-	http://revisor.fedoraunity.org/
+http://revisor.fedoraunity.org/
 
 
 
@@ -81,5 +81,5 @@ http://www.ubuntero.com.br/2011/10/melhorar-qualidade-de-som-de-videos/
 Softwares de MP3
 ----------------
 
-	http://www.abouthack.com/articles/linux/playing-mp3-in-fedora-17.html
+http://www.abouthack.com/articles/linux/playing-mp3-in-fedora-17.html
 
