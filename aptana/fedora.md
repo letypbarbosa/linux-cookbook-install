@@ -13,16 +13,16 @@ Mova a pasta extraida para o usr/local/bin e acesse este
 
 Incluir o aptana dir:
 
-	#nano ~/.bashrc 
-	#PATH=$PATH:/usr/local/bin/Aptana_Studio_3 
+	# nano ~/.bashrc 
+	# PATH=$PATH:/usr/local/bin/Aptana_Studio_3 
 
 Adicione o ícone:
 
-	#cd /usr/share/applications 
+	# cd /usr/share/applications 
 
 Crie um novo arquivo:
 
-	#nano aptana-studio-3.desktop 
+	# nano aptana-studio-3.desktop 
 
 Adicione no arquivo:
 
