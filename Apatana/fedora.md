@@ -25,7 +25,7 @@ Crie um novo arquivo:
 	#nano aptana-studio-3.desktop 
 
 Adicione no arquivo:
-	#[Desktop Entry] Name=Aptana Studio 3 Exec=/usr/local/bin/Aptana_Studio_3/aptana Icon=/usr/local/bin/Aptana_Studio_3/icon.xpm 		  	  #Type=Application Categories=Development 
+	[Desktop Entry] Name=Aptana Studio 3 Exec=/usr/local/bin/Aptana_Studio_3/aptana Icon=/usr/local/bin/Aptana_Studio_3/icon.xpm 		  	  Type=Application Categories=Development 
 
 
 Fonte:
