@@ -88,6 +88,25 @@ Qual diretório para scripts de configuração e redirecionamento do apache(.con
 	etc/httpd/conf.d/meuscript.conf
 
 
+
+Drivers video
+--------------
+
+https://ask.fedoraproject.org/question/9511/how-to-install-a-intel-video-driver-on-fedora/
+
+su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'
+
+sudo yum -y update
+
+
+sudo yum -y install mesa-dri-drivers
+su -c 'yum install libtxc_dxtn --enablerepo=rpmfusion-free-updates'
+
+
+sudo yum -y update
+
+
+
 Tudo sobre fedora
 -----------------
 
