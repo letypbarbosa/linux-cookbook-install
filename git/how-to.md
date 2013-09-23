@@ -16,12 +16,20 @@ Obs: serve também para os repostiŕios no google code
 
     machine code.google.com login seu-login-no-github password sua-senha-no-github
 
+Salve o arquivo na pasta /home
+
+Obs: na pasta /home/usuario não funciona ?????
+
 
 ###  Configurar atalho para "push"
 
     git config --global push.default matching
     git config --global push.default simple
 
+### Configurando seu usuário ao fazer commit's
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 
 ### Deletar branch remoto via terminal
 
