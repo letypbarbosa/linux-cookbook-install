@@ -28,8 +28,8 @@ Obs: na pasta /home/usuario não funciona ?????
 
 ### Configurando seu usuário ao fazer commit's
 
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
 
 ### Deletar branch remoto via terminal
 
