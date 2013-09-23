@@ -92,3 +92,13 @@ E o arquivo seria assim:
 *DENTRO DO ARQUIVO DEVEMOS MENCIONAR A VERSÃO DA DISTRO*.
 
 Os textos explicativos devem ser bem redigidos, simples e objetivos.
+
+
+### about.md
+
+Quando quizer descrever o aplicativo utilize o arquivo *about.md*
+
+
+### how-to.md
+
+Quando quizer criar receitas (básicas) para o aplicativo utilize o arquivo "how-to.md"
