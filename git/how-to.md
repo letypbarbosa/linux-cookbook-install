@@ -34,3 +34,8 @@ Obs: na pasta /home/usuario não funciona ?????
 ### Deletar branch remoto via terminal
 
     git push origin :nome-do-branch
+
+
+### Colorir as linhas
+
+    git config --global color.ui auto
