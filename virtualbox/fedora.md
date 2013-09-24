@@ -1,5 +1,20 @@
-FEDORA 17+
+Fedora 18
+===
 
+Baixe o rpm e instale.
+
+O segredo está em baixar o rpm correto, no meu caso eu utilizei este aqui:
+
+http://download.virtualbox.org/virtualbox/rpm/fedora/18/x86_64/VirtualBox-4.2-4.2.18_88780_fedora18-1.x86_64.rpm
+
+Neste link, procure a versão do seu fedora e baixe o rpm, aí é só executar:
+
+rpm -ivh VirtualBox.....[restante do arquivo].....rpm
+
+
+
+FEDORA 17
+===
 
 Na pasta atual, crie um arquivo chamado "virtualbox.repo" e insira nele o seguinte conteúdo:
 	
