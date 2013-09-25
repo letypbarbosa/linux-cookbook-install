@@ -18,7 +18,7 @@ Instale o software:
 
 Abra o arquivo phpmyadmin para configurar este:
 
-   #  vi /etc/httpd/conf.d/phpMyAdmin.conf
+    #  nano /etc/httpd/conf.d/phpMyAdmin.conf
 
 Comente o seguinte trecho:
 
