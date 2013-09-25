@@ -7,7 +7,7 @@ Instalar o software:
 
 Iniciar automaticamente:
 
-    # /etc /init.d /httpd start
+    # /etc/init.d/httpd start
     # chkconfig httpd on
 
 Para testar, abra o navegador e acesse http://localhost
