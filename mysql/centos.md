@@ -2,7 +2,7 @@ CENTOS 6.4
 
 Instalar o software:
 
-	# yum install mysql mysql-server-y 
+	# yum install mysql mysql-server -y 
 
 Iniciar e habilitar o serviço:
 
