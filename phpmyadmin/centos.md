@@ -2,23 +2,23 @@ CENTOS 6.4
 
 Instalar o software:
 
-    # yum install php-mysql-y   
+    # yum install php-mysql -y   
 
 
 Baixe e instale o repositório EPEL primeiro:
 
     # wget http://dl.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
-    # rpm-ivh EPEL-release-6-8.noarch.rpm 
+    # rpm -ivh EPEL-release-6-8.noarch.rpm 
 
 
 Instale o software:
 
-    # yum install phpmyadmin-y 
+    # yum install phpmyadmin -y 
 
 
 Abra o arquivo phpmyadmin para configurar este:
 
-   #  vi /etc /httpd /conf.d /phpMyAdmin.conf
+   #  vi /etc/httpd/conf.d/phpMyAdmin.conf
 
 Comente o seguinte trecho:
 
@@ -41,4 +41,4 @@ Comente o seguinte trecho:
 
 Reinicie o serviço Apache.
 
-    # /etc /init.d /httpd restart 
+    # /etc/init.d/httpd restart 
