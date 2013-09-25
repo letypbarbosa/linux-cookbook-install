@@ -2,7 +2,7 @@ CENTOS 6.4
 
 Instalar o software:
 
-    # yum install httpd-y 
+    # yum install httpd -y 
 
 
 Iniciar automaticamente:
