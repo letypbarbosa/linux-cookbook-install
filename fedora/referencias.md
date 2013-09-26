@@ -1,6 +1,9 @@
 Referências sobre fedora
 -----------------
 
+
+http://www.devin.com.br/gerenciador-de-pacotes-yum/
+
 http://fedora.wiki.br/wiki/FAQ_do_Fedora_10
 
 http://fedoraproject.org/wiki/Administration_Guide_Draft/Apache

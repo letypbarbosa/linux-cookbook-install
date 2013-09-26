@@ -2,7 +2,7 @@ Para acesar pendrive no virtual box no Ubuntu
 ---------------------------------------------
 
 
-Vaixe e instale o arquivo de extenção de pacote abaixo:
+Baixe e instale o arquivo de extenção de pacote abaixo:
 	
 	Oracle_VM_VirtualBox_Extension_Pack-4.1.18-78361.vbox-extpack
 

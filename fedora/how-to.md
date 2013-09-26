@@ -68,6 +68,22 @@ Qual diretório para scripts de configuração e redirecionamento do apache(.con
 
 
 
+Drivers video
+--------------
+
+https://ask.fedoraproject.org/question/9511/how-to-install-a-intel-video-driver-on-fedora/
+
+su -c 'yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm'
+
+sudo yum -y update
+
+
+sudo yum -y install mesa-dri-drivers
+su -c 'yum install libtxc_dxtn --enablerepo=rpmfusion-free-updates'
+
+
+sudo yum -y update
+
 
 
 Melhorar o som
@@ -77,9 +93,16 @@ http://www.ubuntero.com.br/2011/10/melhorar-qualidade-de-som-de-videos/
 
 
 
-
 Softwares de MP3
 ----------------
 
 http://www.abouthack.com/articles/linux/playing-mp3-in-fedora-17.html
+
+
+
+Tudo sobre fedora
+-----------------
+
+http://fedora.wiki.br/wiki/FAQ_do_Fedora_10
+http://fedoraproject.org/wiki/Administration_Guide_Draft/Apache
 
