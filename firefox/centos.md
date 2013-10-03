@@ -1,7 +1,7 @@
-Atualizandono CENT OS 6.4
+CENT OS 6.4
 ===
 
-...da versão 17 para 24
+Atualizando da versão 17 para 24
 
 
 Adicionar os seguites repositórios:

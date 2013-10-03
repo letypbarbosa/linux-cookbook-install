@@ -100,9 +100,4 @@ http://www.abouthack.com/articles/linux/playing-mp3-in-fedora-17.html
 
 
 
-Tudo sobre fedora
------------------
-
-http://fedora.wiki.br/wiki/FAQ_do_Fedora_10
-http://fedoraproject.org/wiki/Administration_Guide_Draft/Apache
 
