@@ -13,11 +13,14 @@ Habilitar menu de contexto no Nautilus "Open in terminal"
 
 
 Instalar NTFs:
+---
 
 Para abrir dispositivos que utilizem USB
 
 Instale:
+
     # yum install ntfs-3g -y
 
 Realizando a montagem do dispositivo:
+
     # mount -t ntfs /dev/sdb1 /mnt ou mount -t ntfs-3g /dev/sdb1 /mnt
