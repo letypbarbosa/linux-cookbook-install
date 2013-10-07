@@ -1,6 +1,9 @@
 UBUNTU 12+
 
-Via software-center é mais fácil, procure por  "openJavaX" (onde x é a versão mais recente).
+Via software-center é mais fácil, procure por
+
+	"OpenJDK" ou
+	"openJavaX" (onde x é a versão mais recente).
 
 
 ou...
