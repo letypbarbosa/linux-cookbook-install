@@ -1,16 +1,16 @@
 CentOS 6.4
 
-	# yum install php-pear-PHPUnit
+    # yum install php-pear-PHPUnit
 
 
 Quando aparecer o alerta na execução do teste...
 
-        PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/modules/module.so' - /usr/lib/php/modules/module.so: cannot open shared object file: No such file or directory in Unknown on line 0
+    PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/modules/module.so' - /usr/lib/php/modules/module.so: cannot open shared object file: No such file or directory in Unknown on line 0
 
 
 Simplesmente digite no terminal
 
-        # yum downgrade php-mcrypt
+    # yum downgrade php-mcrypt
 
 
 Fonte:
