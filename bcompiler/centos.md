@@ -1,11 +1,9 @@
 CENTOS 6.4
 
-Instalação do bcompiler:
+###Instalação do bcompiler:
 
-Verifique a última versão no site: 
-        http://pecl.php.net/package/bcompiler
-
-Pré requisitos: apache, php e pacotes dependentes
+* Verifique a última versão no site: http://pecl.php.net/package/bcompiler
+* Pré requisitos: apache, php e pacotes de dependência.
 
 
 Como root, digite os comandos:
@@ -19,19 +17,23 @@ Como root, digite os comandos:
         # make test
 
 Se ocorrer um erro com phpize, digite no terminal
+
         # yum install php-devel
 
 
 
 Em seguida, entre no php.ini
+
         nano /etc/php.ini
 
 
 Descomente(se não exister, adicione) a seguinte linha:
+
         extension=bcompiler.so
 
 
 Reinicie o apache
+
         service httpd restart
 
 
