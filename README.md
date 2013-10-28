@@ -28,11 +28,10 @@ Estrutura de arquivos:
 		nautilus-rabbit/
 			debian.txt
 
-
-1. Linhas de comando será sempre precedida do sinal de sharp #.
-2. Os comentários serão textos simples e NÂO devem possuir qualquer sinal de comentários (docblock, //, #, etc..)
-3. Utilize o [markdown](http://daringfireball.net/projects/markdown/syntax).
-4. Dentro dos arquivos devemos mencionar a versão da distro.
-5. Os textos explicativos devem ser bem redigidos, simples e objetivos.
-6. Quando quizer descrever o aplicativo utilize o arquivo *about.md*
-7. Quando quizer criar receitas (básicas) para o aplicativo utilize o arquivo *how-to.md*
+1. Os textos explicativos devem ser bem redigidos, simples e objetivos.
+2. Utilize o [markdown](http://daringfireball.net/projects/markdown/syntax).
+3. Dentro dos arquivos devemos mencionar a versão da distro.
+4. Quando quizer descrever o aplicativo utilize o arquivo *about.md*
+5. Quando quizer criar receitas (básicas) para o aplicativo utilize o arquivo *how-to.md*
+6. Linhas de comando será sempre precedida do sinal de sharp #.
+7. Os comentários serão textos simples e NÂO devem possuir qualquer sinal de comentários (docblock, //, #, etc..)
