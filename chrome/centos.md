@@ -1,7 +1,7 @@
 CHROME - CentoOS 6
 ===
 
-Adicione ao repositório o chrome. Para isoo cire o seguite arquivo
+Adicione ao repositório o chrome. Para isso cire o seguite arquivo
 
 	/etc/yum.repos.d/google-chrome.repo
 
@@ -22,9 +22,9 @@ Agora instale:
 
 E então instale o pacote:
 
-	# Chmod u + x install_chrome.sh
+	# chmod u+x install_chrome.sh
 
-        # . / Install_chrome.sh
+        # ./install_chrome.sh
 
 
 Caso tenha problemas, caminho alternativo...
