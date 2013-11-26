@@ -1,4 +1,4 @@
-Para acesar pendrive no virtual box no Ubuntu
+Para acessar pendrive no virtual box no Ubuntu
 ---------------------------------------------
 
 Baixe e instale o arquivo de extenção de pacote abaixo:
