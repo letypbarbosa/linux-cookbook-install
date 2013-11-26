@@ -39,3 +39,7 @@ Obs: na pasta /home/usuario não funciona ?????
 ### Colorir as linhas
 
     git config --global color.ui auto
+    
+### DRAFT - ver comandos
+
+http://wiki.nosdigitais.teia.org.br/Comandos_Git
