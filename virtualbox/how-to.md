@@ -70,6 +70,8 @@ Como instalar o GuestAdditions via console (CENTOS)
     
     
 (Draft) Compartilhando pastas 
-http://www.vivaolinux.com.br/dica/Compartilhamento-de-pastas-no-VirtualBox    
 ---
+
+http://www.vivaolinux.com.br/dica/Compartilhamento-de-pastas-no-VirtualBox    
+
 
