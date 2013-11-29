@@ -40,6 +40,7 @@ Obs: na pasta /home/usuario não funciona ?????
 
     git config --global color.ui auto
     
-### DRAFT - ver comandos
+### Referências
 
+http://wiki.nosdigitais.teia.org.br/Comandos_Git
 http://wiki.nosdigitais.teia.org.br/Comandos_Git
