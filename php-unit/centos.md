@@ -16,3 +16,5 @@ Simplesmente digite no terminal
 Fonte:
 
 * http://lucidit.blogspot.com.br/2013/04/php-startup-unable-to-load-dynamic.html
+* http://phpms.org/2012/03/guia-rapido-instalando-phpunit/
+* http://netbeans.org/kb/docs/php/phpunit_pt_BR.html

@@ -1,8 +1,8 @@
 Para acessar pendrive no virtual box no Ubuntu
 ---------------------------------------------
 
-Baixe e instale o arquivo de extenção de pacote abaixo:
-	
+Baixe e instale o arquivo de extensão de pacote abaixo:
+
     Oracle_VM_VirtualBox_Extension_Pack-4.1.18-78361.vbox-extpack
 
 Obs: Desculpe, você terá que procurar este arquivo na net.
@@ -67,11 +67,9 @@ Como instalar o GuestAdditions via console (CENTOS)
     # mount /dev/scd0 /media/cdrom
     # sh /media/cdrom/VBOXADDITIONS_4.0.12_72916/VBoxLinuxAdditions
     # reboot
-    
-    
-(Draft) Compartilhando pastas 
+
+
+(Draft) Compartilhando pastas
 ---
 
-http://www.vivaolinux.com.br/dica/Compartilhamento-de-pastas-no-VirtualBox    
-
-
+http://www.vivaolinux.com.br/dica/Compartilhamento-de-pastas-no-VirtualBox
