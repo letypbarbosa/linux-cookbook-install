@@ -9,6 +9,6 @@ Vá até o diretório:
 
     wget http://pkgrepo.linuxtech.net/el6/release/linuxtech.repo
 
-... então, utilize o 'yum' :
+... então, utilize o `yum` :
 
     yum install vlc
