@@ -7,7 +7,7 @@ optei por dar permissão de escrita e alterar o dono das pastas.
 Mudar o dono da pastas /var/www/html de root para o seu usuário:
 	
 	# cd /var/www/
-	# chowner seu_usuario:seu_usuario html/ -R
+	# chown seu_usuario:seu_usuario html/ -R
 
 
 Alterando as permissões:

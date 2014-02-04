@@ -22,4 +22,6 @@ Realizar a instalação:
 
 Referências 
 ---------
-http://www.unixmen.com/how-to-install-latest-git-on-rhel-6-centos-6/
+http://www.unixmen.com/how-to-install-latest-git-on-rhel-6-centos-6/ 
+
+http://halyph.blogspot.com.br/2013/08/how-to-install-git-1834-on-centos-64.html
